@@ -2,7 +2,7 @@
 
 ## 'hello, world!'
 
-View the app at this [*site*](https://still-harbor-78465.herokuapp.com/).
+View the application at this [*site*](https://still-harbor-78465.herokuapp.com/).
 
 This is the first application for the 
 [*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
